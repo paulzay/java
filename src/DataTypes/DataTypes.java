@@ -33,6 +33,6 @@ public class DataTypes {
     char a = 'A'; //takes a single character
 
     // reference types
-//    String numero = new String(original: "Maya");
+//    String numero = new String("Maya");
 
 }
