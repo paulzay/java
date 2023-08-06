@@ -22,6 +22,17 @@ public class Numbers {
         System.out.println(Math.max(10,2));
         System.out.println(Math.abs(-10));
         System.out.println((int)Math.pow(2,5));
+
+        // comparison operators
+        // >= greater than or equal
+        // <= less or equal
+        // == equals
+        // != not equal
+
+        // logical ops
+        // && and
+        // || or
+
     }
 
     // Math class
