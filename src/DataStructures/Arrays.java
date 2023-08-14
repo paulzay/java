@@ -19,5 +19,9 @@ public class Arrays {
         for(String color:colors){
             System.out.println(color);
         }
+
+        // array without length limit
+        int[] numbers = {1,2,3,4,5};
+        String[] names = {"Mo", "Salah"};
     }
 }
