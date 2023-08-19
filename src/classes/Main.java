@@ -1,11 +1,14 @@
 package classes;
 
 public class Main {
-    public static void main(String[]args){
-
+    public static void main(String[] args){
+        Lens firstLens = new Lens("Canon","80mm", true);
+        System.out.println(firstLens.brand);
+        System.out.println(firstLens.focalLength);
+        System.out.println(firstLens.isPrime);
     }
 
-    public class Lens {
+    static class Lens {
         String brand;
         String focalLength;
         boolean isPrime;
